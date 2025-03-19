@@ -1,0 +1,12 @@
+{
+    "name": "book-lending-system",
+    "version": "1.0.0",
+    "description": "A simple Node.js-based Book Lending System",
+    "main": "events.js",
+    "scripts": {
+      "test": "node src/testScript.js"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+  }
+  
